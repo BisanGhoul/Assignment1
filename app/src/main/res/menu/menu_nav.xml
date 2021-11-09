@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/watch"
+        android:title="Stop Watch"
+        android:icon="@drawable/ic_watch"/>
+
+    <item
+        android:id="@+id/notes"
+        android:title="Notes"
+        android:icon="@drawable/ic_notes24"/>
+
+</menu>
